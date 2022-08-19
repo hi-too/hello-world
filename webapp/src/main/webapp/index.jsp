@@ -6,6 +6,7 @@
 
 		<center>
 			<h1>Hello.. and welcome to Tomcat!</h1>
+			<h2>Automagic Things up!</h2>
 		</center>
 
 <form action="action_page.php">
