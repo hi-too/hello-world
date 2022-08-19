@@ -1,3 +1,13 @@
+<html>
+	<head>
+		<title>Tomcat Testing</title>
+	</head>
+	<body>
+
+		<center>
+			<h1>Hello.. and welcome to Tomcat!</h1>
+		</center>
+
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
@@ -35,3 +45,6 @@
 
   
 </form>
+</body>
+</html>
+
